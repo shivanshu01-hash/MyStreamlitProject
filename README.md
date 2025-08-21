@@ -1,4 +1,4 @@
-# 🖼️ Shivanshu's RGB & Grayscale Image Visualizer
+# Shivanshu's RGB & Grayscale Image Visualizer
 
 This is a simple and interactive **Streamlit web app** that allows users to visualize the RGB channels and grayscale version of a local image with customizable colormaps.
 
@@ -6,14 +6,14 @@ This is a simple and interactive **Streamlit web app** that allows users to visu
 
 ## 🔍 Features
 
-- 📷 Load image from your **local file path**
-- 🔴 🟢 🔵 Visualize Red, Green, and Blue channels separately
-- 🖤 Convert image to **grayscale**
-- 🎨 Apply custom **Matplotlib colormaps** (`viridis`, `plasma`, `gray`, etc.)
+- Load image from your **local file path**
+- Visualize Red, Green, and Blue channels separately
+- Convert image to **grayscale**
+- Apply custom **Matplotlib colormaps** (`viridis`, `plasma`, `gray`, etc.)
 
 ---
 
-## 📁 Project Files
+## Project Files
 
 ```
 image_channel_visualizer/
@@ -24,7 +24,7 @@ image_channel_visualizer/
 
 ---
 
-## 🚀 How to Run This App
+## How to Run This App
 
 ### 1. Install Required Libraries
 
@@ -52,7 +52,7 @@ Open your browser at [http://localhost:8501](http://localhost:8501)
 
 ---
 
-## 📦 Dependencies
+## Dependencies
 
 - Python 3.7+
 - Streamlit
@@ -62,13 +62,13 @@ Open your browser at [http://localhost:8501](http://localhost:8501)
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 Created by **Shivanshu Sahu**  
 Full Stack AI & Data Science Learner
 
 ---
 
-## 🔒 Note
+## Note
 
 This version uses a **hardcoded local file path**. For public or online use, replace it with a `file_uploader` method.
